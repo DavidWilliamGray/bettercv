@@ -36,13 +36,6 @@ h2 {
   padding-top: 25px;
 }
 
-h3 {
-  font-family: 'Montserrat', sans-serif;
-  color: #11999E;
-  font-size: 1.5rem;
-  font-weight: normal;
-}
-
 hr {
   border: dotted #EAF6F6 6px;
   border-bottom: none;
@@ -155,7 +148,7 @@ p {
   text-decoration: none;
   padding-left: 10px;
   padding-right: 10px;
-  font-size: 1.25rem;
+  font-size: 2rem;
 }
 
 .footer-text {
